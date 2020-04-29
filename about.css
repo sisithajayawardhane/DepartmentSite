@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+.des h1{
+    color: white;
+    font-family: helvetica;
+    font-size: 40px;
+    text-align: center;
+}
+.des p{
+    color: white;
+    font-family: helvetica;
+    font-weight: 100;
+}
